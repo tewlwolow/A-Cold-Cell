@@ -4,7 +4,7 @@ description = "A quest mod for May Modathon 2023 - SSQN addon."
 homepage = "https://www.nexusmods.com/morrowind/mods/52832"
 repository = "https://github.com/tewlwolow/A-Cold-Cell"
 authors = ["tewlwolow"]
-version = "1.0.3"
+version = "1.0.4"
 
 [tools.mwse]
 lua-mod = "tew.AColdCell"
